@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- Banner Image -->
+<img src="https://your-image-link/banner.png" alt="Banner" style="width:100%; border-radius:10px;"/>
 
-<!--
-**tarshablackhorn/tarshablackhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Tarsha] 👋
 
-Here are some ideas to get you started:
+I'm a **Certified Scrum Master** specializing in **AGILE methodologies**, **Solidity smart contracts**, and **scaling high-performance teams**. I thrive in leading teams to deliver innovative blockchain solutions while maintaining a harmonious and efficient work environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me 👩🏾‍💻
+- 🎓 Certified Scrum Master with expertise in Agile frameworks (Scrum, Kanban).
+- 💻 Beginner Blockchain Architect experienced in auditing secure smart contracts.
+- 🚀 Team Leader skilled in scaling development teams and driving productivity.
+- 🌐 Passionate about decentralized technologies and blockchain ecosystems.
+
+---
+
+## Skills and Technologies 🛠️
+- **Agile Methodologies:** Scrum, Kanban, SAFe
+- **Smart Contracts:** Solidity, Hardhat, Truffle
+- **Blockchain Development:** Ethereum, Polygon, Web3.js
+- **Team Management:** Agile Coaching, Stakeholder Management, Conflict Resolution
+- **CI/CD & Scaling:** Docker, Kubernetes, Jenkins
+
+---
+
+## Current Projects and Learning Journey 🚀
+- 📚 **Learning Solidity** – Currently mastering smart contract development using:
+  - [CryptoZombies](https://cryptozombies.io) – Building games to learn Solidity basics.
+  - [Solidity by Example](https://solidity-by-example.org) – Practical examples and hands-on coding.
+  - [OpenZeppelin Documentation](https://docs.openzeppelin.com) – Exploring secure smart contract standards.
+- 🚀 **Upcoming Projects:**
+  - **Simple Token Contract:** Building an ERC-20 token as my first Solidity project.
+  - **Voting DApp:** Creating a decentralized voting application to understand state management.
+  - **DeFi Smart Contracts:** Experimenting with staking and yield farming contracts.
+
+---
+
+## Let's Connect! 🤝
+- 📧 Email: [Email me](mailto:tarsha.blackhorn@gmail.com)
+- 💼 LinkedIn: [My LinkedIn](https://linkedin.com/in/tarsha-blackhorn-csm-a39634a7)
+- 🐦 Twitter: [My Twitter](https://twitter.com/your-twitter(https://x.com/mrsblackhorn?s=21))
+- 🌐 Portfolio: [My BrainStyle](https://your-website.com(https://www.writewithbowandarrow.com/))
+
+---
