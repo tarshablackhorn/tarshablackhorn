@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<img src="https://your-image-link/banner.png" alt="Banner" style="width:100%; border-radius:10px;"/>
-
 # Hi, I'm [Tarsha] 👋
 
 I'm a **Certified Scrum Master** specializing in **AGILE methodologies**, **Solidity smart contracts**, and **scaling high-performance teams**. I thrive in leading teams to deliver innovative blockchain solutions while maintaining a harmonious and efficient work environment.
