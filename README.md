@@ -1,6 +1,6 @@
 # Hi, I'm [Tarsha] 👋
 
-I'm a **Certified Scrum Master** specializing in **AGILE methodologies**, **Solidity smart contracts**, and **scaling high-performance teams**. I thrive in leading teams to deliver innovative blockchain solutions while maintaining a harmonious and efficient work environment.
+I'm a **Project Managerr** specializing in **AGILE methodologies**, **Solidity smart contracts**, and **scaling high-performance teams**. I thrive in leading teams to deliver innovative blockchain solutions while maintaining a harmonious and efficient work environment.
 
 ---
 
