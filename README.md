@@ -1,13 +1,13 @@
 # Hi, I'm [Tarsha] 👋
 
-I'm a **Project Manager** specializing in **AGILE methodologies**, **Solidity smart contracts**, and **scaling high-performance teams**. I thrive in leading teams to deliver innovative blockchain solutions while maintaining a harmonious and efficient work environment.
+I like learning and experimenting with technology. I am unconventional in my approach...which means the way I do things isn't wrong...it's just different. I allow my creativity to push my drive. When it comes to logic...yeah it's needed, and I have it...but logic without creativity results in zero innovation and I aim to innovate. 
 
 ---
 
 ## About Me 👩🏾‍💻
-- 🎓 Certified Scrum Master with expertise in Agile frameworks (Scrum, Kanban).
-- 💻 Beginner Blockchain Architect experienced in auditing secure smart contracts.
-- 🚀 Team Leader skilled in scaling development teams and driving productivity.
+- 🎓 Combat Vet
+- 💻 Beginner Blockchain Architect
+- 🚀 Creative Disruptor.
 - 🌐 Passionate about decentralized technologies and blockchain ecosystems.
 
 ---
@@ -35,7 +35,6 @@ I'm a **Project Manager** specializing in **AGILE methodologies**, **Solidity sm
 
 ## Let's Connect! 🤝
 - 📧 Email: [Email me](mailto:tarsha.blackhorn@gmail.com)
-- 💼 LinkedIn: [My LinkedIn](https://linkedin.com/in/tarsha-blackhorn-csm-a39634a7)
 - 🐦 Twitter: [My Twitter](https://twitter.com/your-twitter(https://x.com/mrsblackhorn?s=21))
 - 🌐 Portfolio: [My BrainStyle](https://your-website.com(https://www.writewithbowandarrow.com/))
 
