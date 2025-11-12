@@ -1,6 +1,6 @@
 # Hi, I'm [Tarsha] 👋
 
-I like learning and experimenting with technology. I am unconventional in my approach...which means the way I do things isn't wrong...it's just different. I allow my creativity to push my drive. When it comes to logic...yeah it's needed, and I have it...but logic without creativity results in zero innovation and I aim to innovate. 
+I like learning and experimenting with technology. I am unconventional in my approach...which means the way I do things isn't wrong...it's just different. I allow my creativity to push my drive. When it comes to logic...yeah it's needed, and I have it...but logic without creativity results in zero innovation and I aim to innovate. Currently learning to build on Base.
 
 ---
 
